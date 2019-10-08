@@ -10,6 +10,6 @@ class App < Sinatra::Base
 	post '/food' do
 
 		erb :food
-	erb
+  end
 
 end
